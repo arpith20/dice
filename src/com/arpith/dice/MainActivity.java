@@ -2,10 +2,10 @@ package com.arpith.dice;
 
 /*****************************************************************************
  * Dice Roller application
- * Author		: 	Arpith and Nagabharan
- * USN			: 	1PE10CS{018,054}
+ * Author		: 	Arpith
+ * USN			: 	1PE10CS018
  * Platform		:	Android 2.3.7 (CyanogenMod 7.2)
- * DevelopedOn	:	Ubuntu 12.04.1 using Eclipse Juno
+ * DevelopedOn	:	Ubuntu 12.04.1 using Eclipse (Juno)
  * TestedOn		:	Xperia Neo V
  * Date			:	Sept 24
  *****************************************************************************/
